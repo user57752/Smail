@@ -50,7 +50,6 @@
   - [在线演示](#在线演示)
   - [功能/TODO](#功能todo)
   - [Reference](#reference)
-  - [Join Community](#join-community)
 
 ## 功能/TODO
 
