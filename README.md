@@ -1,4 +1,4 @@
-# 使用 cloudflare 免费服务，搭建临时邮箱
+# Smail Code
 
 <p align="center">
   <a href="https://hellogithub.com/repository/2ccc64bb1ba346b480625f584aa19eb1" target="_blank">
