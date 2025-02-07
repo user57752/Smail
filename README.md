@@ -27,8 +27,6 @@
   </a>
 </p>
 
-> 本项目仅供学习和个人用途，请勿将其用于任何违法行为，否则后果自负。
-
 ## [查看部署文档](https://temp-mail-docs.awsl.uk)
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://temp-mail-docs.awsl.uk/zh/guide/actions/github-action.html)
@@ -82,8 +80,3 @@
 - 使用 Cloudflare Pages 部署前端
 - 使用 Cloudflare Workers 部署后端
 - email 转发使用 Cloudflare Email Routing
-
-## Join Community
-
-- [Discord](https://discord.gg/dQEwTWhA6Q)
-- [Telegram](https://t.me/cloudflare_temp_email)
